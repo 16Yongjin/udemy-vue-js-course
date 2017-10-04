@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "vuejs-http-c8dd4",
+    "vue-stock-trade": "vuejs-http-c8dd4"
+  }
+}
